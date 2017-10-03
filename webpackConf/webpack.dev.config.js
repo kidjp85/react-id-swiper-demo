@@ -62,6 +62,6 @@ config.plugins.push(
 	})
 );
 
-config.devtool = 'eval-source-map';
+config.devtool = 'cheap-module-source-map';
 
 module.exports = config;

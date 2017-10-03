@@ -29,7 +29,7 @@ export default () => {
   return(
     <div className="body-container">
       <Header />
-      <div className="container">
+      <div className="container container-fluid container-full">
         <DefaultSwiper />
         <VerticalSwiper />
         <PaginationSwiper />

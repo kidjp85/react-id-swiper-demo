@@ -33,9 +33,10 @@
     "lodash": "^4.17.4",
     "prop-types": "^15.5.8",
     "pug": "^2.0.0-beta11",
-    "react": "15.5.0",
-    "react-dom": "15.5.0",
-    "react-id-swiper": "1.4.0"
+    "react": "16.0.0",
+    "react-dom": "16.0.0",
+    "react-id-swiper": "1.5.0-beta",
+    "recompose": "^0.25.1"
   },
   "devDependencies": {
     "add-asset-html-webpack-plugin": "^1.0.2",

@@ -6,7 +6,7 @@ export default (props) => {
     pagination: '.swiper-pagination',
     paginationClickable: true,
     slidesPerView: 5,
-    spaceBetween: 50,
+    spaceBetween: 20,
     breakpoints: {
       1024: {
         slidesPerView: 4,
